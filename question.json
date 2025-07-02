@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "question": "Who is the owner of this server?",
+      "answer": "Sumit"
+    },
+    {
+      "question": "How many players can play BombSquad?",
+      "answer": "8"
+    }
+  ]
+}

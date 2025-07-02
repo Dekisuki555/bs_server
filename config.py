@@ -1,0 +1,3 @@
+SERVER_NAME = "💫✨SUMIT'S OFFICIAL SERVER✨💫"
+HOST_NAME = "Sumit"
+OWNER_PB_ID = "pb-IF4yUU0fNw"
